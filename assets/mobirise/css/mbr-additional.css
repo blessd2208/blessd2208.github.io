@@ -2704,8 +2704,34 @@ section.lazy-placeholder:after {
 }
 .cid-sb67g9D1db {
   padding-top: 105px;
-  padding-bottom: 60px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/nebmci-720x540.jpg");
+}
+.cid-sb6BAEOZzF .google-map {
+  height: 25rem;
+  position: relative;
+}
+.cid-sb6BAEOZzF .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-sb6BAEOZzF .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-sb6BAEOZzF .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-sb6BAEOZzF .google-map[data-state="loading"] [data-state-details] {
+  display: none;
 }
 .cid-saP73BRxAg {
   background: #ffffff;
@@ -2727,37 +2753,6 @@ section.lazy-placeholder:after {
   .cid-saP73BRxAg .image-block {
     width: 100% !important;
   }
-}
-.cid-saONJL6apc {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
-}
-.cid-saONJL6apc .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-saONJL6apc .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-saONJL6apc .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-saONJL6apc .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-saONJL6apc .google-map[data-state="loading"] [data-state-details] {
-  display: none;
 }
 .cid-saOPszgvDa {
   padding-top: 15px;
@@ -3168,6 +3163,56 @@ section.lazy-placeholder:after {
 .cid-s9IhbOluOB .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-sb6FuI1kXz {
+  padding-top: 105px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-sb6FuI1kXz p {
+  margin-bottom: 0;
+}
+.cid-sb6FuI1kXz .card-box {
+  z-index: 1;
+  position: relative;
+  background-color: rgba(35, 35, 35, 0.3);
+  height: 100%;
+  width: 100%;
+  pointer-events: none;
+}
+.cid-sb6FuI1kXz .card-box .card-title {
+  pointer-events: all;
+}
+.cid-sb6FuI1kXz .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.cid-sb6FuI1kXz .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-sb6FuI1kXz .card-img img {
+  z-index: -1;
+  height: 100%;
+  min-width: 100%;
+  width: auto;
+}
+.cid-sb6FuI1kXz .card-wrap {
+  position: relative;
+}
+.cid-sb6FuI1kXz .card {
+  padding-bottom: 2rem;
+}
+.cid-sb6FuI1kXz H4 {
+  text-align: center;
+}
 .cid-sb5X0IT6bf {
   padding-top: 75px;
   padding-bottom: 0px;
@@ -3216,6 +3261,56 @@ section.lazy-placeholder:after {
   padding-bottom: 2rem;
 }
 .cid-sb5X0IT6bf H4 {
+  text-align: center;
+}
+.cid-sb6FwwzCtW {
+  padding-top: 30px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-sb6FwwzCtW p {
+  margin-bottom: 0;
+}
+.cid-sb6FwwzCtW .card-box {
+  z-index: 1;
+  position: relative;
+  background-color: rgba(35, 35, 35, 0.3);
+  height: 100%;
+  width: 100%;
+  pointer-events: none;
+}
+.cid-sb6FwwzCtW .card-box .card-title {
+  pointer-events: all;
+}
+.cid-sb6FwwzCtW .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.cid-sb6FwwzCtW .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-sb6FwwzCtW .card-img img {
+  z-index: -1;
+  height: 100%;
+  min-width: 100%;
+  width: auto;
+}
+.cid-sb6FwwzCtW .card-wrap {
+  position: relative;
+}
+.cid-sb6FwwzCtW .card {
+  padding-bottom: 2rem;
+}
+.cid-sb6FwwzCtW H4 {
   text-align: center;
 }
 .cid-s9IhbOluOB .navbar {
@@ -3621,7 +3716,7 @@ section.lazy-placeholder:after {
 .cid-sb6gspw6Cl {
   padding-top: 120px;
   padding-bottom: 105px;
-  background-image: url("../../../assets/images/85105680-2802282233183966-1046363009510801408-n-960x628.jpeg");
+  background-image: url("../../../assets/images/header-1800x1200.jpeg");
 }
 .cid-sb61nt3hIU {
   padding-top: 45px;
