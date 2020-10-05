@@ -4038,6 +4038,28 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-scvUCOZK2C {
+  background: #efefef;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #efefef, #efefef);
+}
+.cid-scvUCOZK2C .image-block {
+  margin: auto;
+}
+.cid-scvUCOZK2C figcaption {
+  position: relative;
+}
+.cid-scvUCOZK2C figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-scvUCOZK2C .image-block {
+    width: 100% !important;
+  }
+}
 .cid-sb61w6Pf7n {
   padding-top: 30px;
   padding-bottom: 15px;
