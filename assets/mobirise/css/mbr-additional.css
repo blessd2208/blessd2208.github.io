@@ -4016,85 +4016,26 @@ section.lazy-placeholder:after {
 .cid-sb61qfEGpb .mbr-section-subtitle {
   color: #767676;
 }
-.cid-sb61svpUaN {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+.cid-scvBvso0v5 {
+  background: #efefef;
+  background: linear-gradient(0deg, #efefef, #efefef);
 }
-.cid-sb61svpUaN .mbr-section-subtitle {
-  color: #767676;
+.cid-scvBvso0v5 .image-block {
+  margin: auto;
+  width: 100% !important;
 }
-.cid-sb61svpUaN .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
+.cid-scvBvso0v5 figcaption {
+  position: relative;
 }
-.cid-sb61svpUaN .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-sb61svpUaN .team-item .item-image img {
+.cid-scvBvso0v5 figcaption div {
+  position: absolute;
+  bottom: 0;
   width: 100%;
 }
-.cid-sb61svpUaN .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-sb61svpUaN .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-sb61svpUaN .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
-}
-.cid-sb61svpUaN .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-sb61svpUaN .team-item .item-caption {
-  background: #efefef;
-}
-.cid-sb61upT8hT {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-sb61upT8hT .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-sb61upT8hT .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-sb61upT8hT .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-sb61upT8hT .team-item .item-image img {
-  width: 100%;
-}
-.cid-sb61upT8hT .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-sb61upT8hT .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-sb61upT8hT .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
-}
-.cid-sb61upT8hT .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-sb61upT8hT .team-item .item-caption {
-  background: #efefef;
+@media (max-width: 768px) {
+  .cid-scvBvso0v5 .image-block {
+    width: 100% !important;
+  }
 }
 .cid-sb61w6Pf7n {
   padding-top: 30px;
